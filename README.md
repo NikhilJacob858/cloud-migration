@@ -1,3 +1,4 @@
+<b>Why a managed cloud?</b><br>
 Businesses are increasingly cloud-enabling enterprise apps such as SAP to power creative business models and attain business agility. They aim to migrate sensitive workloads and data to a stable, reliable cloud platform and to combine existing recording systems with new dynamic mobile and social applications. That's not easy to deploy and handle the cloud and their business applications for them so many partners with a vendor. 
 
 When more and more enterprises migrate to the cloud, they enjoy the tremendous advantages of always-on technology, quick deployment of solutions, and flexible scaling. However, companies often come up against a harsh reality: when they go live with a new or migrated cloud application, the path to the cloud does not end. Businesses are actually rapidly realising that cloud operations need a very different approach. 
@@ -8,7 +9,7 @@ Software operated by the cloud is often referred to as a cloud application or cl
 
 <a href="https://nuvento.com/cloud-managed-services/#Cloud">Cloud it management services</a> will help you fill cloud management gaps and maximise your operational efficiencies, whether you operate a multi tenant or hybrid cloud infrastructure. If you're still sceptical about whether managed cloud services are a good match for you, let's talk about some of the advantages they offer: 
 
-Cloud it management services help you realize excellent cost-savings 
+<b>Cloud it management services help you realize excellent cost-savings</b>
 
 You should stop paying high prices for infrastructure, 
 
