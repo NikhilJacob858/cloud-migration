@@ -1,4 +1,4 @@
-<b>Why a managed cloud?</b><br>
+<b><h1 style="font-size:15px">Why a managed cloud?</h1></b><br>
 Businesses are increasingly cloud-enabling enterprise apps such as SAP to power creative business models and attain business agility. They aim to migrate sensitive workloads and data to a stable, reliable cloud platform and to combine existing recording systems with new dynamic mobile and social applications. That's not easy to deploy and handle the cloud and their business applications for them so many partners with a vendor. 
 
 When more and more enterprises migrate to the cloud, they enjoy the tremendous advantages of always-on technology, quick deployment of solutions, and flexible scaling. However, companies often come up against a harsh reality: when they go live with a new or migrated cloud application, the path to the cloud does not end. Businesses are actually rapidly realising that cloud operations need a very different approach. 
